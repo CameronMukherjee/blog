@@ -40,3 +40,4 @@ jobs:
           github_token: ${{ secrets.TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
+          keep_files: true
