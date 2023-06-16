@@ -1,6 +1,6 @@
 ---
 title: "Mastering the London Tech Job Market"
-date: 2023-06-16T125107+0100
+date: 2023-06-16T17:42:07+01:00
 draft: false 
 showHero: true
 heroStyle: background
