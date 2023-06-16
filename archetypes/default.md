@@ -7,5 +7,6 @@ heroStyle: background
 showBreadcrumbs: true
 showViews: true
 showLikes: true
+showTableOfContents: true
 ---
 
