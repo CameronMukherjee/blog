@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ufu.dev/sitemap.xml
