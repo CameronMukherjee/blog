@@ -268,7 +268,44 @@ you revise further:
   - Question: What steps would you take to deal with a misunderstanding between team members on your project? 
   - Question: Can you explain the concept of 'recursion' in simple terms as if you were speaking to someone without a computer science background? 
   - Question: How would you handle a situation where you and a colleague have different views on how to solve a problem?
-    
+
+#### Tools and Technologies
+The necessity of updating one's knowledge and skill-set regarding external tools and technologies pertinent to your 
+specific technology stack cannot be overstated. The specific tools and technologies that one should focus on, of course,
+depend greatly on the particular type of engineering work one is involved in. However, a good initial focus might include
+open-source tools and technologies that are universally beneficial, irrespective of the technology stack.
+Examples include Docker and other containerization tools, as well as monitoring and observability tools like the ELK
+stack or DataDog. For those engaged in backend development, distributed computing tools such as ZooKeeper and Kafka
+are worthy of investigation.
+
+While it isn't crucial to comprehend the minute technicalities of how each tool operates, understanding the capabilities 
+of these tools and their practical applications is of paramount importance. The familiarity and ability to use these
+tools can, at times, be a deciding factor in securing a position within a company.
+
+Take, for example, a previous systems design interview I attended where I was asked to discuss distributed scheduling.
+Fortuitously, I had been working on a personal project that involved solving this exact issue and had developed a 
+compact application to demonstrate my understanding of ZooKeeper's capabilities. If I had not invested in researching 
+this area beforehand, I could have faltered in my response, even though I had never implemented such a system at the
+production level. The learning from this experience underscores the importance of staying updated with relevant tools 
+and technologies in your field.
+
+### Strategies for Revision
+One of the most effective ways to revise and assimilate new knowledge is by actively engaging with it. Here are some
+strategies that can help you cement your learning
+
+#### Develop Personal Projects
+Practical implementation of concepts is an excellent way to not only test your understanding but also to consolidate your learning. By developing personal projects or demonstration applications, you can experience firsthand the challenges and intricacies involved. These hands-on projects can not only deepen your comprehension but also provide tangible evidence of your abilities, which can be beneficial when job hunting.
+
+#### Document Your Findings
+Regularly documenting your findings or starting a blog about your learning journey can help structure your thoughts and reinforce your understanding. This practice enables you to reflect on what you've learnt, articulate it in your own words, and identify any gaps in your knowledge. Moreover, it can serve as a useful reference for future studies and might even help others who are embarking on a similar journey.
+
+#### Share Publicly
+Social platforms such as Twitter, LinkedIn, or GitHub provide an avenue for you to share your learning journey with a broader audience. Publicly sharing your progress can garner feedback from a diverse range of individuals, potentially providing new perspectives or insights that you might not have considered. It also helps build a sense of accountability, which can motivate you to stay consistent and diligent in your learning journey.
+
+#### Teach Others 
+
+If possible, consider teaching someone else what you've learned. The process of explaining a concept to someone else requires a deep understanding of the topic and can uncover gaps in your knowledge. It's often said that "to teach is to learn twice", and this can be an extremely effective method to solidify your understanding. It also allows you to give back to the community and help others learn, creating a virtuous cycle of knowledge sharing.
+
 ### Conclusion
 
 The journey to securing a desirable position in the London tech job market may appear challenging, but with the right 
