@@ -16,8 +16,8 @@ title = "ufu.dev"
 [author]
    name = "Cameron Mukherjee"
    image = "img/author.jpeg"
-   headline = "Technical Lead based in London, UK"
-   bio = "Technical Lead, Entrepreneur"
+   headline = "Technical Lead | Entrepreneur | Engineer"
+   bio = "Technical Lead, Entrepreneur, Engineer"
    links = [
      { email = "mailto:mukherjee.cameron@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
