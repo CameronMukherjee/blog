@@ -1,0 +1,4 @@
+baseURL = 'https://ufu.dev'
+languageCode = 'en-us'
+title = 'ufu.dev'
+theme = 'blowfish'
