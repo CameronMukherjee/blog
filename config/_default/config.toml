@@ -15,7 +15,7 @@ summaryLength = 10
 buildDrafts = false
 buildFuture = false
 
-# googleAnalytics = "G-XXXXXXXXX"
+googleAnalytics = "G-EHQHVC1409"
 
 [imaging]
   anchor = 'Center'
