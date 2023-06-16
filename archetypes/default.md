@@ -5,5 +5,7 @@ draft: true
 showHero: true
 heroStyle: background
 showBreadcrumbs: true
+showViews: true
+showLikes: true
 ---
 

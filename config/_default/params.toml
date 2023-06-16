@@ -118,13 +118,13 @@ disableImageOptimization = true
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyB_1NiKS8xhwsOWb9A7X-wdcixtjsIkArQ"
+  authDomain = "ufu-dev.firebaseapp.com"
+  projectId = "ufu-dev"
+  storageBucket = "ufu-dev.appspot.com"
+  messagingSenderId = "632042208036"
+  appId = "1:632042208036:web:b298f8620a75dc4cbd91b1"
+  measurementId = "G-EHQHVC1409"
 
 [fathomAnalytics]
   # site = "ABC12345"
