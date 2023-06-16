@@ -10,14 +10,14 @@ title = "ufu.dev"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-   description = "Cameron Mukherjee "
+#   description = "Cameron Mukherjee "
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
    name = "Cameron Mukherjee"
    image = "img/author.jpeg"
-   headline = ""
-   bio = "A little bit about you"
+   headline = "Software Engineer based in London, UK"
+   bio = "Senior Engineer, Technical Lead & Entrepreneur"
    links = [
      { email = "mailto:mukherjee.cameron@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
