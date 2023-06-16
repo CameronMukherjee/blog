@@ -7,7 +7,6 @@ heroStyle: background
 showBreadcrumbs: true
 ---
 
-
 ## Introduction
 
 It is important to note that the content of this blog post primarily pertains to the UK, and more specifically, the London job market. While some information may also apply to other geographical regions, my expertise and familiarity are rooted in the context of the UK.
