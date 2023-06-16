@@ -1,4 +1,4 @@
-baseURL = 'https://cameronmukherjee.github.io/ufu.dev/'
+baseURL = 'https://ufu.dev'
 languageCode = 'en-us'
 title = 'ufu.dev'
 theme = 'blowfish'
