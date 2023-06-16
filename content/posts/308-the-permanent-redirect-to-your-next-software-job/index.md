@@ -1,5 +1,5 @@
 ---
-title: "Mastering the London Tech Job Market"
+title: "308: The Permanent Redirect to Your Next Software Job"
 date: 2023-06-16T17:42:07+01:00
 draft: false 
 showHero: true
@@ -106,7 +106,7 @@ For example:
 
 This approach was instrumental in a personal experience when I applied for a Senior position. The company, after considering my comprehensive experience and skills, encouraged me to apply for a Technical Lead role instead.
 
-### Initial Calls (First Round)
+### Initial calls with recruiters
 
 On applying for a position, the first stage typically involves screening by a recruiter or a member of the company's HR team. Although these individuals may not have technical backgrounds, they usually possess a reasonable understanding of technology. Hence, it is essential to articulate your technical knowledge in a language that both parties can understand.
 
@@ -120,7 +120,7 @@ If successful in the initial call, you will usually progress to one of the follo
 
 I will not delve deeper into these stages as the expectations and process can vary widely across different companies.
 
-### What fundamental skills do you need for a position?
+### What job title should I apply for?
 
 The expectations for different sectors and companies can vary substantially, but the following should serve as a general guide
 
@@ -228,14 +228,14 @@ The expectations for different sectors and companies can vary substantially, but
 As a general rule of thumb it's good to revise the following sectors, I have also attached some example questions to help
 you revise further:
 
-#### Your preferred programming language
+#### Your language(s) of choice 
   - Review and practice fundamental syntax rules, operators, and data types.
   - Build a small project from scratch without using any resources or references. 
   - Read a piece of complex code written by someone else and try to understand it. 
   - Explain to someone else or write down how memory management works in your preferred language. 
   - Question: How would you handle exceptions in your preferred language?
 
-#### Your preferred framework
+#### Your framework(s) of choice 
   - Develop a small application that utilizes the most common features of the framework. 
   - Review the documentation to understand the core principles and best practices. 
   - Try to contribute to an open-source project that uses the same framework. 
