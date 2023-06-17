@@ -2,7 +2,7 @@
 title: "308: The Permanent Redirect to Your Next Software Job"
 date: 2023-06-16T17:42:07+01:00
 draft: false 
-tags: ["Market"]
+tags: ["Market", "Guide"]
 ---
 
 ### Introduction
