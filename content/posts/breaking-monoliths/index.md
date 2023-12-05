@@ -1,6 +1,6 @@
 ---
 title: "Breaking Monoliths for Business Velocity"
-date: 2023-12-05T13:25:07+01:00
+date: 2023-12-03T13:25:07+01:00
 draft: false
 tags: ["business", "distributed", "systems design"]
 ---
