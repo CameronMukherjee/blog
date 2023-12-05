@@ -84,7 +84,7 @@ of the application, allowing unit tests to be written, maintained and tested by 
 The combination of faster releases, better quality, and quick issue resolution often leads to improved customer
 satisfaction, as customers benefit from a more responsive and continuously improving product.
 
-## TLDR - Moving from Monolith to Microservices
+## How do I migrate? 
 
 The easiest and most tangible way to quickly migrate a monolithic application to microservice / mini-monolith would
 be a divide and conquer strategy. This is where we find specific domains that our application fulfills and partition /
