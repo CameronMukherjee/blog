@@ -6,7 +6,17 @@
     <description>Recent content on ufu.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 14:11:46 +0100</lastBuildDate><atom:link href="https://ufu.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Dec 2023 13:25:07 +0100</lastBuildDate><atom:link href="https://ufu.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breaking Monoliths for Business Velocity</title>
+      <link>https://ufu.dev/posts/breaking-monoliths/</link>
+      <pubDate>Sun, 03 Dec 2023 13:25:07 +0100</pubDate>
+      
+      <guid>https://ufu.dev/posts/breaking-monoliths/</guid>
+      <description>Preface # The technological benefits of Monoliths is a widely covered topic in the technology community, however, the benefits for an organisation/business are less discussed.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ufu.dev/posts/breaking-monoliths/featured.jpg" />
+    </item>
+    
     <item>
       <title>Percentage Based Routing in High Performance Distributed Systems</title>
       <link>https://ufu.dev/posts/percentage-based-routing-in-distributed-systems/</link>
